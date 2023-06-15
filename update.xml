@@ -1,0 +1,6 @@
+<AppUpdater>
+  <update>
+    <latestVersion>v8.0.280+</latestVersion>
+    <url>https://github.com/JakeFreshmetrics/FreshmetricsOffice/releases</url>
+  </update>
+</AppUpdater>
